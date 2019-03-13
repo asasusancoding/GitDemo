@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-06T19:48:13Z" name="Suite" finished-at="2018-08-06T19:48:13Z" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2018-08-06T19:48:13Z" name="Test" finished-at="2018-08-06T19:48:13Z" duration-ms="77">
+      <class name="Demotestingotesting.Demo2Test">
+        <test-method signature="Demo2testing1()[pri:0, instance:Demotestingotesting.Demo2Test@45c7e403]" started-at="2018-08-06T19:48:13Z" name="Demo2testing1" finished-at="2018-08-06T19:48:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2testing1 -->
+        <test-method signature="Demo2testing2()[pri:0, instance:Demotestingotesting.Demo2Test@45c7e403]" started-at="2018-08-06T19:48:13Z" name="Demo2testing2" finished-at="2018-08-06T19:48:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2testing2 -->
+      </class> <!-- Demotestingotesting.Demo2Test -->
+      <class name="Demotestingotesting.Demo3Test">
+        <test-method signature="Demo3testing1()[pri:0, instance:Demotestingotesting.Demo3Test@b3ca52e]" started-at="2018-08-06T19:48:13Z" name="Demo3testing1" finished-at="2018-08-06T19:48:13Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3testing1 -->
+        <test-method signature="Demo3testing2()[pri:0, instance:Demotestingotesting.Demo3Test@b3ca52e]" started-at="2018-08-06T19:48:13Z" name="Demo3testing2" finished-at="2018-08-06T19:48:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3testing2 -->
+      </class> <!-- Demotestingotesting.Demo3Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
